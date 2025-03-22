@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project Placeholder</b>
-  - [Project Placeholder](https://github.com/bkawczynski2017/placeholder)
+- <b>Home Lab</b>
+  - [Home lab set up](https://github.com/bkawczynski2017/placeholder)
 
 <h2>📝 Certifications</h2>
 <b>CompTIA</b>
