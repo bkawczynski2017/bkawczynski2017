@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Home lab set up](https://github.com/bkawczynski2017/placeholder)
+  - [Home lab set up](https://github.com/bkawczynski2017/HomeLabSetUp)
 
 <h2>📝 Certifications</h2>
 <b>CompTIA</b>
