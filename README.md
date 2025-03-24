@@ -1,5 +1,8 @@
 <h1>Hi, I'm Brandon! </h1>
 
+I am a cybersecurity professional with experience in security operations, incident response, and risk management. Certified in CompTIA Security+, CySA+, Pentest+, and (ISC)² SSCP (awaiting endorsement). Skilled in log analysis, threat hunting, and vulnerability assessments, with a strong understanding of SIEM concepts and security frameworks (NIST 800-53, ISO 27001, HIPAA). Experienced in endpoint security, Active Directory access management, and patch management. Currently expanding expertise in Splunk through hands-on projects. Passionate about protecting critical systems through proactive threat detection and forensic analysis.
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Lab</b>
