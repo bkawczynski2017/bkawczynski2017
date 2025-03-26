@@ -8,6 +8,7 @@ I am a cybersecurity professional with experience in security operations, incide
 - <b>Home Lab</b>
   - [Home lab set up](https://github.com/bkawczynski2017/HomeLabSetUp)
   - [Configure Home Lab for Malware Analysis](https://github.com/bkawczynski2017/MalwareTestEnvironment/tree/main)
+  - [Simple Malware Attack and Analysis](https://github.com/bkawczynski2017/SimpleMalwareTelemetry/tree/main)
 
 <h2>📝 Certifications</h2>
 <b>CompTIA</b>
